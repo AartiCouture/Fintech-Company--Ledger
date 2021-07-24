@@ -40,11 +40,11 @@ Ledger
 
 ## Recommendations
 
-* Ledger Nano X does not provide a touchscreen as of yet, compared to its top competitior, Trezor.  I would suggest adding a touchscreen for ease of use and a more modern design.   
+* Ledger Nano X does not provide a touchscreen as of yet, compared to its top competitior, Trezor.  I would suggest adding a touchscreen for ease of use and a more modern design.  I would also recommend that Ledger consistently update their security to make sure that they do not have another security breach.  
 
-* For new or retail investors, ease of use is key. adding a touchscreen offers this. 
+* For new or retail investors, ease of use is key. adding a touchscreen offers this. Building back trust with consistent updates is key after the security breach.
 
-* This new product would require a new display for Ledger's wallet line. 
+* This new product would require a new display for Ledger's wallet line as well as security updates for Ledger Live.
 
 * This will modernize Ledger to compete for customers with Trezor.  It will also broaden its market by including newer, less tech savvy investors.
 
